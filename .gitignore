@@ -2,3 +2,9 @@
 *.vsidx
 
 .vs/PRN_PROJECT/FileContentIndex/
+
+*.v2
+
+.vs/PRN_PROJECT/v17/
+
+.vs/ProjectEvaluation/
